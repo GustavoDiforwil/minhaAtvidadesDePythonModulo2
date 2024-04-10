@@ -1,10 +1,7 @@
-# pythonemprestimoex036
-basicamente ele pega o valor de uma casa o seu salario e em quantos anos vc quer pagar essa casa, no final ele fala se o empréstimo é aceito ou não.
-obs: vc precisa ter o python instaldo em seu computador caso o contrario ele não funciona.
-//
 
-Basically, it takes the value of a house, your salary, and in how many years you want to pay for this house. In the end, it tells whether the loan is accepted or not.
-Note: You need to have Python installed on your computer, otherwise it won't work.
-
-
-
+ola, aqui ficara minhas ativadades de estudo sobre python
+vou por meus programas e etc, ele estara sempre aberto para voocê ver e analisar
+caso queira dar uma dica, me mande uma mensagem no instagram
+insta esta no meu perfil aqui no github
+///////////////////////////////////////////////////////////ENGLISH/////////////////////////////////////
+Hello, here will be my study activities on Python. I'll be sharing my programs and more, always open for you to view and analyze. If you'd like to give a tip, feel free to send me a message on Instagram. My Insta handle is in my profile here on GitHub.
