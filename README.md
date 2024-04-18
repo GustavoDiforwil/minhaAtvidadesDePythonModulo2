@@ -1,5 +1,5 @@
 
-ola, aqui ficara minhas ativadades de estudo sobre python
+ola, aqui ficara minhas ativadades de estudo sobre python,
 vou por meus programas e etc, ele estara sempre aberto para você ver e analisar.
 caso queira dar uma dica, me mande uma mensagem no instagram
 insta esta no meu perfil aqui no github
