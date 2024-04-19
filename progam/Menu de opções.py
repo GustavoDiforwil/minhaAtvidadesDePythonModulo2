@@ -3,8 +3,8 @@ from time import sleep
 # começo
 numeroUm = float(input('escolha um numero: '))
 numeroDois = float(input('outro numero: '))
-escolha = 0
-while escolha != 5:
+funcionando = True
+while funcionando:
 
     print('''ESCOLHA UMAS DAS OÇÕES:
 ------------------------
@@ -48,4 +48,6 @@ while escolha != 5:
     print('-' * 24)
 
     # sair do programa
+    if escolha == 5:
+        funcionando = False
 print('\033[97;102mobrigado por usar meu programa!\033[m :)')
